@@ -8,6 +8,16 @@
 </a>
 </h1>
 
+## I am a Developer and a hobbyist trader.
+
+- 🔭 I’m currently working on nothing specific.
+- 🌱 I’m currently learning about Data Structures & Algorithms
+- 👯 I’m looking to collaborate on developing trading algorithms
+- 💬 Ask me about programming, anime, movies and trading.
+- 🥅 2021 Goals: Learn how to build and maintain consistency in life.
+- ⚡ Fun fact: I read a lot of philosophical and spiritual books and I embrace optimistic nihilism.
+
+
 <!--Mid GIF
 </hr>
 <p align="center">
