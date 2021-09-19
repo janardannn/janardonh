@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on developing trading algorithms
 - 💬 Ask me about programming, anime, movies and trading.
 - 🥅 2021 Goals: Learn how to build and maintain consistency in life.
-- ⚡ Fun fact: I read a lot of philosophical and spiritual books and I embrace optimistic nihilism.
+- ⚡ Fun fact: I read a lot of philosophical and spiritual books and embrace optimistic nihilism.
 
 
 <!--Mid GIF
