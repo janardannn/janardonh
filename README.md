@@ -44,7 +44,7 @@
   <h2 align="center"> Connect with me :handshake:</h2>
 </p>
 <p align="center">
-<a href="mailto:jonardonhazarika7@gmail.com" target="_blank">
+<a href="mailto:janardonhazarika7@gmail.com" target="_blank">
   <img align="center" alt="Janardon's Email" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
 </a>
 &nbsp;
