@@ -63,7 +63,7 @@
 </a>
 &nbsp;
 -->
-<a href="https://twitter.com/jnrdn_hzarika/" target="_blank">
+<a href="https://twitter.com/janardon_h/" target="_blank">
   <img align="center" alt="Janardon's Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 &nbsp;
