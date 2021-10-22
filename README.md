@@ -67,7 +67,7 @@
   <img align="center" alt="Janardon's Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 &nbsp;
-<a href="https://www.instagram.com/jonardon.hazarika/" target="_blank">
+<a href="https://www.instagram.com/janardon_hazarika/" target="_blank">
   <img align="center" alt="Janardon's Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 &nbsp;
