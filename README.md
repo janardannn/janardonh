@@ -10,7 +10,7 @@
 
 ## I am a Developer and a hobbyist trader.
 
-- 🔭 I’m currently working on nothing specific.
+- 🔭 I’m currently working on TranceEngine.
 - 🌱 I’m currently learning about Data Structures & Algorithms
 - 👯 I’m looking to collaborate on developing trading algorithms
 - 💬 Ask me about programming, anime, movies and trading.
